@@ -197,4 +197,10 @@ li ul {
 }
 
 
+@media screen and(max-width:700px){
+    section, img{
+        width:100%
+    }
+}
+
 
