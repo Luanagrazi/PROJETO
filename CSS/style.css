@@ -199,11 +199,7 @@ li ul {
 
 /*Deixar o site responsivo*/
 
-@media screen and(max-width:700px){
-    section, img, li, ul, {
-        width:100%
-    }
-}
+
 
 
 
