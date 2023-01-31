@@ -214,10 +214,18 @@ th {
 @media only screen and (max-width: 480px) {
   img {
     width: 100%;
+     height: 300px;
+     object-fit: cover;
+     object-position: bottom;
   }
 }
 
-
+img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  object-position: bottom;
+}
 
 
 
