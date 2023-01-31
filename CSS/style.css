@@ -209,7 +209,16 @@ th {
  .conceitos {
             font-size: 22;
         }
+*{
+ margin: 0;
+}
 
+
+@media (max-width:500px){
+    section{
+      width: 460px;
+    }
+}
 
 
 
