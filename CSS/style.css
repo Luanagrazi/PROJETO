@@ -1,6 +1,13 @@
 
 /* Esses comandos são para tudo que estiver no body, ter essa coloração e ter essa fonte  */
 
+
+.imgresponsivo{
+
+    max-widht:100%;
+    height: auto;
+}
+
 body{
     background-color: rgb(203, 227, 211);
     font-family: Georgia, 'Times New Roman', Times, serif;
