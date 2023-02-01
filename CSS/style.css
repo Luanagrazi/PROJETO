@@ -3,7 +3,6 @@
 
 
 .imgresponsivo{
-
     max-widht:100%;
     height: auto;
     float: center;
@@ -15,7 +14,7 @@
 body{
     background-color: rgb(203, 227, 211);
     font-family: Georgia, 'Times New Roman', Times, serif;
-    border-radius: 70px 70px 70px 70px;
+    border-radius: 40px 40px 40px 40px;
     padding: 50px;
     width:100%;
     line-height: 20px;
