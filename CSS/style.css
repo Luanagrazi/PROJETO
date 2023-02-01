@@ -19,6 +19,13 @@
 }
 
 
+@media(min-width: 570px){
+    imgresponsivo{
+          display:block;
+    }
+}
+
+
 
 
 
