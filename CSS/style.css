@@ -31,6 +31,19 @@
     }
 }
 
+
+@media(min-width: 790px){
+    img-bg{
+     display:block;
+    }
+    
+    img-sg{
+    display:none;
+    }
+}
+
+
+
 body{
     background-color: rgb(203, 227, 211);
     font-family: Georgia, 'Times New Roman', Times, serif;
