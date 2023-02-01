@@ -23,24 +23,16 @@
 
 @media(min-width: 498px){
     img-bg{
-     display:flex;
-    }
-    
-    img-sg{
-    display:none;
-    }
-}
-
-
-@media(min-width: 790px){
-    img-bg{
      display:block;
     }
     
     img-sg{
-    display:none;
+    display:block;
     }
 }
+
+
+
 
 
 
