@@ -12,24 +12,8 @@
 
 }
 
-.img-bg{
-   display:none;
-    
-}
 
-.img-sg{
-  display:block;
-}
 
-@media(min-width: 498px){
-    img-bg{
-     display:block;
-    }
-    
-    img-sg{
-    display:block;
-    }
-}
 
 
 
