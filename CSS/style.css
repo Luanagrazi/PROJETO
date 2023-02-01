@@ -6,6 +6,10 @@
 
     max-widht:100%;
     height: auto;
+    float: center;
+    margin: auto;
+    display:flex;
+
 }
 
 body{
@@ -151,12 +155,7 @@ li {
 
 
 
-#ladoalado{
-    float: center;
-    margin: auto;
-    display:flex;
 
-}
 
 
 
