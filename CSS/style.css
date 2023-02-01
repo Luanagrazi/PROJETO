@@ -78,10 +78,8 @@ img {
     flex-direction row;
     box-shadow: 10px 8px rgba(108, 120, 110, 0.667);
     align-items: center;
+   
 }
-
-
-
 
 /* as tags de parágrafos terão esses comandos */
 p{
