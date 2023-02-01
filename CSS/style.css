@@ -13,14 +13,14 @@
 }
 
 @media(min-width: 490px){
-    imgresponsivo{
+    .imgresponsivo{
           display:block;
     }
 }
 
 
 @media(min-width: 570px){
-    imgresponsivo{
+    .imgresponsivo{
           display:block;
     }
 }
