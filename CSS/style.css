@@ -23,7 +23,7 @@
 
 @media(min-width: 498px){
     img-bg{
-     display:block;
+     display:flex;
     }
     
     img-sg{
