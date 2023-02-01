@@ -12,25 +12,6 @@
 
 }
 
-@media(min-width: 490px){
-    .imgresponsivo{
-          display:block;
-    }
-}
-
-
-@media(min-width: 570px){
-    .imgresponsivo{
-          display:block;
-    }
-}
-
-
-
-
-
-
-
 body{
     background-color: rgb(203, 227, 211);
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -41,12 +22,10 @@ body{
 
 }
 
-
-
-
 iframe{
     border-radius: 50;
 }
+
 
 *{
     padding:0;
