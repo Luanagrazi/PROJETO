@@ -12,7 +12,11 @@
 
 }
 
-
+@media(min-width: 490px){
+    imgresponsivo{
+          display:block;
+    }
+}
 
 
 
