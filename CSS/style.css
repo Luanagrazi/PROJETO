@@ -94,10 +94,11 @@
 
 .embedd-container iframe, .embedd-container object, .embedd-container embed {
  position: relative;
- top: 3;
+ top: 5;
  left: 12;
- width: 80%;
+ width: 90%;
  height: 80%;
+ 
 }
 
 
