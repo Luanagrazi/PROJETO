@@ -92,7 +92,7 @@
 
 /* para os links não ficar muito em cima das palavaras logo abaixo*  top: 10; padding: 10px;  */
 
-.embedd-container iframe, .embedd-container object, .embedd-container embed  {
+.embedd-container iframe {
 position: absolute;
 left: 16;
 width: 100%;
