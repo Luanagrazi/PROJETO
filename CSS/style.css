@@ -182,13 +182,12 @@ img {
    
 }
 
-/* as tags de parágrafos terão esses comandos */
+/* as tags de parágrafos terão esses comandos  margin-bottom: 15px; */
 p{
     margin-top: 50px;
-    padding:70px;
+    padding:15px; 25px;  15px; 25px;
     background-color: azure;
     border-radius: 40px 40px 40px 40px;
-    margin-bottom: 30px;
     box-shadow: 10px 8px rgb(19, 48, 19);
  
 }
