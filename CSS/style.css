@@ -93,11 +93,11 @@
 /* para os links não ficar muito em cima das palavaras logo abaixo*/
 
 .embedd-container iframe, .embedd-container object, .embedd-container embed {
- position: relative;
- top: 5;
- left: 12;
- width: 90%;
- height: 100%;
+position: absolute;
+top: 5;
+left: 12;
+width: 100%;
+height: 30px;
  
 }
 
