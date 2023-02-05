@@ -90,6 +90,18 @@
 
 /* para o vídeo do youtube ficar responsivo acima */
 
+/* para os links não ficar muito em cimda das palavaras logo abaixo*/
+
+.embedd-container iframe, .embedd-container object, .embedd-container embed {
+ position: absolute;
+ top: 3;
+ left: 12;
+ width: 80%;
+ height: 80%;
+}
+
+
+
 
 body{
     background-color: rgb(203, 227, 211);
