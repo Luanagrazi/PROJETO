@@ -251,9 +251,10 @@ li {
 
 #baixo{
     float: left;
-    margin: auto;
+    margin: 10px;
     display: flex;
     padding: 2 37px;
+ 
    
 }
 
