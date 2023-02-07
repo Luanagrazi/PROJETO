@@ -254,6 +254,7 @@ li {
     margin: 10px;
     display: flex;
     padding: 2 37px;
+    align-items: center;
  
    
 }
