@@ -253,12 +253,9 @@ li {
     float: left;
     margin: 10px;
     display: flex;
-    padding: 2 37px;
-    align-items: center;
- 
- 
+    padding: 0 40px;
    
-  justify-content: space-between;
+    justify-content: space-between;
    
 }
 
