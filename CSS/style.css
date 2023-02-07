@@ -243,17 +243,10 @@ li {
 }
 
 
-
-
-
-
-
-
 #baixo{
     float: left;
     margin: 10px;
     display: flex;
-    padding: 0 37px;
    
     justify-content: space-between;
    
